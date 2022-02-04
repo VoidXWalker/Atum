@@ -14,7 +14,7 @@ To exit the resetting mode, press the "Stop Resets & Quit" button at the bottom 
 
 ----------
 
-To use change the seed that gets reset or to change the difficulty simply shift click on the golden boots.
+To change the seed that gets reset or to change the difficulty simply shift click on the golden boots.
 
 An empty seed will result in the mod resetting random seeds. 
 
