@@ -18,6 +18,14 @@ To change the seed that gets reset or change the difficulty simply shift-click o
 
 An empty seed will result in the mod resetting random seeds. 
 
+## Info and Compatibility
+
+This mod is valid for speedruns on http://speedrun.com/mc and its category extensions.
+
+For 1.16.1, Closet Witch's Fast Reset mod is compatible (https://github.com/jan-leila/FastReset/releases).
+
+Note for resource pack creators: the "Stop Resets & Quit" button can be changed by customizing menu.stop_resets in your language file if you like.
+
 ## Authors
 
 - [@Void_X_Walker](https://www.github.com/voidxwalker)
