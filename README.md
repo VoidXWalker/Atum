@@ -31,4 +31,4 @@ Note for resource pack creators: the "Stop Resets & Quit" button can be changed 
 - [@Void_X_Walker](https://www.github.com/voidxwalker) 
 
 ## Acknowledgements
-- [@DuncanRuns] for creating the original autoreset mod
+- [@DuncanRuns] (https://github.com/DuncanRuns)for creating the original autoreset mod
