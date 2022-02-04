@@ -28,5 +28,7 @@ Note for resource pack creators: the "Stop Resets & Quit" button can be changed 
 
 ## Authors
 
-- [@Void_X_Walker](https://www.github.com/voidxwalker)
+- [@Void_X_Walker](https://www.github.com/voidxwalker) 
 
+## Acknowledgements
+- [@DuncanRuns] for creating the original autoreset mod
