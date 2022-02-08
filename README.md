@@ -3,7 +3,6 @@
 
 Mod to automatically reset random and set seeds
 
-
 ## Usage
 
 Press the golden boots button on the main menu to start the world resetting mode.
@@ -21,6 +20,8 @@ An empty seed will result in the mod resetting random seeds.
 ## Info and Compatibility
 
 This mod is valid for speedruns on http://speedrun.com/mc and its category extensions.
+
+Just replace Duncan's autoresetter jar with the newest release of this one, attempts and difficulty files are compatible.
 
 For 1.16.1, Closet Witch's Fast Reset mod is compatible (https://github.com/jan-leila/FastReset/releases).
 
